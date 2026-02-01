@@ -23,3 +23,9 @@ header > h1 {
 header > p {
     padding-bottom: 50px;
 }
+
+a {
+    color: #FFF;
+    font-weight: bolder;
+    text-decoration: none;
+}
