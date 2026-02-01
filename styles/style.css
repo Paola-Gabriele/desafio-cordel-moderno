@@ -8,3 +8,9 @@
 html, body {
     min-height: 100vh;
 }
+
+header {
+    background-color: #000;
+    color: #FFF;
+    text-align: center;
+}
