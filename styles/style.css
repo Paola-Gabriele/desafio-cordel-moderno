@@ -35,6 +35,16 @@ header a:hover, footer a:hover {
     text-underline-offset: 4px;
 }
 
+.section-default {
+    background-color: #FFF;
+    color: #000;
+}
+
+.section-bg-img {
+    background-color: rgb(51, 51, 51);
+    color: #FFF;
+}
+
 footer {
     background-color: #000;
     color: #FFF;
