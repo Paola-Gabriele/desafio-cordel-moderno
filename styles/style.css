@@ -35,6 +35,11 @@ header a:hover, footer a:hover {
     text-underline-offset: 4px;
 }
 
+section {
+    padding: 10vh 0 10vh 30px;
+    line-height: 2em;
+}
+
 .section-default {
     background-color: #FFF;
     color: #000;
