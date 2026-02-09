@@ -35,3 +35,9 @@ header a:hover, footer a:hover {
     text-underline-offset: 4px;
 }
 
+footer {
+    background-color: #000;
+    color: #FFF;
+    padding: 10px;
+    text-align: center;
+}
