@@ -2,11 +2,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
 :root {
     --font-default: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     --font-001: "Kaushan Script", cursive;
     --font-002: "Titan One", sans-serif;
+    --font-003: "Tilt Warp", sans-serif;
+    --font-004: "Source Sans 3", sans-serif;
 }
 
 * {
@@ -16,6 +20,7 @@
 }
 
 html, body {
+    font-family: var(--font-default);
     min-height: 100vh;
 }
 
@@ -26,16 +31,21 @@ header {
 }
 
 header > h1 {
-    padding-top: 50px;
+    font-family: var(--font-003);
     font-variant: small-caps;
+    letter-spacing: 1px;
+    padding-top: 50px;
 }
 
 header > p {
+    font-family: var(--font-001);
+    letter-spacing: 1px;
     padding-bottom: 50px;
 }
 
 header a, footer a {
     color: #FFF;
+    font-family: var(--font-004);
     font-weight: bolder;
     text-decoration: none;
 }
