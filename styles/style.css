@@ -64,6 +64,10 @@ section {
     line-height: 2em;
 }
 
+section > p {
+    padding-bottom: 2rem;
+}
+
 .section-default {
     background-color: #FFF;
     color: #000;
