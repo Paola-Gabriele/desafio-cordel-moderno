@@ -70,8 +70,9 @@ section {
 }
 
 .section-bg-img > p {
+    display: inline-block;
     background-color: rgba(0, 0, 0, .255);
-    width: 400px;
+    padding: 0 10px;
 }
 
 .section-bg-img {
