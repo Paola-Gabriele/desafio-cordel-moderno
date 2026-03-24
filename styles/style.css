@@ -39,7 +39,7 @@ header > h1 {
 
 header > p {
     font-family: var(--font-001);
-    letter-spacing: 1px;
+    letter-spacing: 0.2px;
     padding-bottom: 50px;
 }
 
@@ -47,6 +47,7 @@ header a, footer a {
     color: #FFF;
     font-family: var(--font-004);
     font-weight: bolder;
+    margin: 0 5px;
     text-decoration: none;
 }
 
