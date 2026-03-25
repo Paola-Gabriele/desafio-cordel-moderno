@@ -75,8 +75,9 @@ section > p {
 
 .section-bg-img > p {
     display: inline-block;
-    background-color: rgba(0, 0, 0, .255);
+    background-color: rgba(0, 0, 0, 0.521);
     padding: 0 10px;
+    text-shadow: 1.25px 1.25px 0 #000;
 }
 
 .section-bg-img {
