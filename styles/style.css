@@ -88,11 +88,13 @@ section > p {
 section#img-001 {
     background-image: url(../images/background001.jpg);
     background-position: right center;
+    background-size: cover;
 }
 
 section#img-002 {
     background-image: url(../images/background002.jpg);
     background-position: right center;
+    background-size: cover;
 }
 
 footer {
