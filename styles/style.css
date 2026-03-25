@@ -84,6 +84,16 @@ section > p {
     color: #FFF;
 }
 
+section#img-001 {
+    background-image: url(../images/background001.jpg);
+    background-position: right center;
+}
+
+section#img-002 {
+    background-image: url(../images/background002.jpg);
+    background-position: right center;
+}
+
 footer {
     background-color: #000;
     color: #FFF;
