@@ -19,3 +19,7 @@ Criar uma página simples que simula o estilo de um **cordel moderno**, utilizan
 
 ## 🚀 Como visualizar
 - ➡️ [Clique aqui](https://paola-gabriele.github.io/desafio-cordel-moderno/) para visualizar o projeto! 
+
+---
+
+📌 *Sinta-se à vontade para contribuir com outras curiosidades ou melhorias no conteúdo!*
